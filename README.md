@@ -18,7 +18,4 @@
 
 ### ✨ My Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlvtv&layout=compact)](https://github.com/zlvv/github-readme-stats)
-
-
 [![codewars](https://www.codewars.com/users/fjellrevv/badges/small)](https://www.codewars.com/users/fjellrevv)
